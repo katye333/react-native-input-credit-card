@@ -21,11 +21,9 @@ const s = StyleSheet.create({
     alignItems: "center",
   },
   form: {
-    marginHorizontal: 20,
     marginVertical: 20,
   },
   inputContainer: {
-    marginLeft: 20,
     marginTop: 20,
     marginBottom: 20,
   },

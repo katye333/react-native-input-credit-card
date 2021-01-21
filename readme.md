@@ -1,5 +1,6 @@
 > ## Copied from npm: https://www.npmjs.com/package/react-native-input-credit-card
-> I take no credit for this, whatsoever. The only changes I made 
+> I take no credit for this, whatsoever. The only changes I made were to remove the `horizontal` prop on the ScrollView (CreditCardInput.js) and removed the 
+`marginHorizontal: 20;` and `marginLeft: 20` on the styles object (CreditCardInput.js)
 ---
 > ## This project is a continuation of this one, that is abandoned: [https://github.com/sbycrosz/react-native-input-credit-card](https://github.com/sbycrosz/react-native-input-credit-card)
 
